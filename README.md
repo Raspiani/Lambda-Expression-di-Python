@@ -9,4 +9,6 @@ Belajar Menggunakan Fungsi Lambda di Python
 - Lambda Expression - Fungsi Lambda dan Reduce dengan Fungsi Agregat
 - Lambda Expression - If Else Conditional Statement dengan Fungsi Lambda dan Reduce
 - Lambda Expression - Mengakses Nested List dengan Fungsi Lambda dan Fungsi Map
-- 
+- Lambda Expression - Dictionary dalam Lambda
+- Lambda Expression - Filtering Dictionary Menggunakan Fungsi Filter dan Fungsi Lambda
+- Lambda Expression - Penjumlahan Multiple List dengan Fungsi Map dan Fungsi Lambda
